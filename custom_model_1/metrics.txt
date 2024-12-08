@@ -1,0 +1,14 @@
+Performance Metrics:
+
+Accuracy: 0.7276 (72.76%)
+Loss: 1.1711
+Validation Accuracy: 0.5196 (51.96%)
+Validation Loss: 6.0058
+
+Test Data without additional Preprocessing:
+Matches: 11
+Mismatches: 12
+
+Test with additional Preprocessing:
+Matches : 9
+Mismatches : 14
