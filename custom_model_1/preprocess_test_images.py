@@ -39,7 +39,7 @@ def process_images(input_folder, output_folder):
 
 
 # Input and output folder paths
-input_folder = 'test_images'  # Replace with your input folder path
+input_folder = 'test_images2'  # Replace with your input folder path
 output_folder = 'processed_test_images'  # Replace with your desired output folder path
 
 # Process images
