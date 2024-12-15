@@ -1,0 +1,7 @@
+{
+    "total_images": 1000,
+    "correct_predictions": 24,
+    "accuracy": 2.4,
+    "overall_cer": 0.9589587242026266,
+    "overall_wer": 0.976
+}
